@@ -1,0 +1,19 @@
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.exe.config
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.exe
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.pdb
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\bin\Debug\Slidely AI Task 2.xml
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.vbproj.AssemblyReference.cache
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.Resources.resources
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.vbproj.GenerateResource.cache
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.vbproj.CoreCompileInputs.cache
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.exe
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.xml
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely AI Task 2.pdb
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.Form1.resources
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.CreateSubmissionForm.resources
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.ViewSubmissionsForm.resources
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely .741804BF.Up2Date
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.EditForm.resources
+C:\Users\Karma Soni\Desktop\SlidelyAITask2\Slidely AI Task 2\obj\Debug\Slidely_AI_Task_2.SearchForm.resources
